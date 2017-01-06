@@ -1,4 +1,5 @@
 class AdminUser < ApplicationRecord
   has_many :section_edits
-  has_and_belongs_to_many :page
+  has_many :sections, through: :section_edits
+  has_and_belongs_to_many :pages
 end
