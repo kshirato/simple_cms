@@ -11,7 +11,7 @@ You may use this repository to check if you've been successfully following the t
 
 上記チュートリアルのポイントをまとめた記事をQiitaに公開しています。
 
-http://qiita.com/ekanoh/items/d6bb311acd5fc2aca69f
+http://qiita.com/ekanoh/items/fa80ad6519f30b064acc
 
 ## Installation
 
