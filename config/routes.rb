@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  resources :subject do
+  resources :subjects do
     member do
       get :delete
     end
